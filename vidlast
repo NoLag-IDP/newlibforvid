@@ -86,7 +86,7 @@ end)
 -- 🔥 Updated third button → Brainrot Spawner
 local btn3 = createScriptButton("Brainrot Spawner", UDim2.new(0, 10, 0, 120), function()
 	if not brainrotSpawnerScript then
-		brainrotSpawnerScript = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-IDP/testingadminnew/refs/heads/main/test2"))()
+		brainrotSpawnerScript = loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-IDP/testingadminnew/refs/heads/main/etooo"))()
 	else
 		brainrotSpawnerScript.Enabled = not brainrotSpawnerScript.Enabled
 	end
